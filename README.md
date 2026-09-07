@@ -9,7 +9,7 @@ JSON content: Scraped from Reddit (r/Trading, r/Daytrading, r/InnerCircleTraders
 
 ## Contents
 - `data/Article-public.pdf` - dataset background and methodology
-- `STS_Dataset_Prompts_and_Instructions.pdf` - AI/LLM prompt templates for LLM analysis
+- `STS_Dataset_Prompts_and_Instructions_public.pdf` - AI/LLM prompt templates for LLM analysis
 - `data/submitted-2026-09-02.json` - 391 Reddit submissions
 - `data/comments-2026-09-02.json` - 251 Reddit comments
 
